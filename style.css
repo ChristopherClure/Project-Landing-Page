@@ -25,10 +25,47 @@ li {
 
 .first-container {
   display: flex;
+  flex-direction: column;
 }
 
 .header-logo {
   padding: 10px;
   color: #F9FAF8;
   font-size: 24px;
+}
+
+.second-container {
+  display: flex;
+  background-color: #1F2937;
+  color: #E5E7EB;
+  flex: 1 1 auto;
+  justify-content: center;
+}
+
+.sign-up {
+  padding: 8px 16px;
+  border-radius: 8px;
+  background: royalblue;
+  border: 1px solid royalblue;
+  color: white;
+}
+
+.third-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  align-items: flex-start;
+}
+
+.outside-box {
+  padding: 60px;
+}
+
+.outside-box-two {
+  padding: 60px;
+}
+
+img {
+  width: 400px;
+  height: auto;
 }
