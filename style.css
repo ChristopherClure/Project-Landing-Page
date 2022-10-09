@@ -79,3 +79,19 @@ img {
   font-weight: bolder;
   color: #F9FAF8;
 }
+
+.fourth-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.fifth-container {
+  display: flex;
+}
+
+.sixth-container {
+  display: flex;
+  flex-direction: column;
+}
+
