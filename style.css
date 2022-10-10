@@ -115,3 +115,31 @@ li {
 .under-image-text {
   font-size: 18px;
 }
+
+.quote-container {
+  background-color: #cacaca;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-weight: lighter;
+  color: #1F2937;
+}
+
+.quoter {
+  align-self: flex-end;
+  font-weight: bolder;
+  margin-right: 30px;
+}
+
+.quote-container-two {
+  display: flex;
+  flex: 1 1 auto;
+  background-color: #cacaca;
+  align-items: center;
+  justify-content: center;
+}
