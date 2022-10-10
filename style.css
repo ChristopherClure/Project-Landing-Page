@@ -143,3 +143,20 @@ li {
   align-items: center;
   justify-content: center;
 }
+
+.action-one {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.action-two {
+  background: #3882F6;
+  padding: 30px;
+  display: flex;
+}
+
+.action-three {
+  display: flex;
+  flex-direction: column;
+}
